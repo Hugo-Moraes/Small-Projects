@@ -1,0 +1,18 @@
+ 
+table { 
+  border-style: outset; 
+  border-width: 1px;
+  border-color: whitesmoke;
+} 
+.inset {
+ border-style: inset;
+ border-bottom: 1px;
+ border-color: whitesmoke;
+ padding: 10px;
+
+}
+
+#titulo {
+  font-family: a;
+}
+

@@ -1,0 +1,22 @@
+.maior{
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+
+.caixa {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+    width: 300px;
+    border: 2px solid black;
+    padding: 0%;
+  }
+  
+
+  
+  .escrita {
+    margin-left: 30px;
+}
+

@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.left-image, .right-image {
+  width: 350px;
+  height: 250px;
+}
+
+.center-text {
+  text-align: center;
+}
